@@ -11,7 +11,7 @@ Este programa em Python implementa um assistente virtual que utiliza o modelo de
 ## Instruções de Uso 📝
 
 1. **Instalação de Dependências:** Assegure-se de ter a biblioteca `google-generativeai` instalada em seu ambiente Python. Utilize o comando `pip install google-generativeai` para instalar a biblioteca. 📦
-2. **Configuração da Chave de API:** Substitua a string `"YOUR_API_KEY"` no código pela sua chave de API do Google Gemini. Essa chave é necessária para autenticar e utilizar o modelo de linguagem. 🔑
+2. **Configuração da Chave de API:** Substitua a string `"SUA_API_KEY"` no código pela sua chave de API do Google Gemini. Essa chave é necessária para autenticar e utilizar o modelo de linguagem. 🔑
 3. **Execução do Programa:** Inicie o programa executando o script Python. Um menu de opções será exibido, apresentando as seguintes funcionalidades:
 
    - Iniciar uma nova conversa. 🆕
@@ -28,4 +28,4 @@ Este programa em Python implementa um assistente virtual que utiliza o modelo de
 
 - **Menu Interativo:** Um menu intuitivo é apresentado ao usuário, facilitando a navegação pelas funcionalidades do programa. 🧭
 
-- **Histórico de Interações:** A funcionalidade de consultar conversas armazenadas também exibe o histórico de perguntas e respostas associadas a cada convers
+- **Histórico de Interações:** A funcionalidade de consultar conversas armazenadas também exibe o histórico de perguntas e respostas associadas a cada conversa.
